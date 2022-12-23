@@ -1,5 +1,7 @@
-#https://joinmeapp.netlify.app/
-# Getting Started with Create React App
+# Join Me React App
+# (https://joinmeapp.netlify.app/)
+
+![image](https://user-images.githubusercontent.com/78694579/209400069-85361682-b0e7-44cd-9be2-cf1dfb54ed29.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
